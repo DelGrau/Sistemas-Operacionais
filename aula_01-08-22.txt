@@ -10,24 +10,28 @@ Sistema de Cloud
     AWS: Amazon Web Services
 
         Separado por Zonas (zones)
-            Ohio
-            Brasil
-            U.K
+            - Ohio
+            - Brasil
+            - U.K
 
         Cada zona possui seus POD's, que por sua vez possuem seus "CLUSTER"
 
             POD's:
-                Pode ser um Hack ou um Data Center
+                - Pode ser um Rack ou um Data Center
 
             CLUSTER: 
-                Aglomerado de Hosts
+                - Aglomerado de Hosts
 
             HOST:
-                Qualquer equipamento conectado a Internet
-                Onde vai o Sistema Operacional
+                - Qualquer equipamento conectado a Internet
+                - Onde vai o Sistema Operacional
 
 Objetivo da Disciplina:
-    Entender como é por traz de um S.O e como ele funciona
+    - Entender como é por traz de um S.O e como ele funciona
 
+Passivo:
+    - Não detem grande inteligência
 
-            
+Ativo:
+    - Exige alto grau de inteligência
+
