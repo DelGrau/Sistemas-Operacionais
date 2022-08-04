@@ -1,0 +1,19 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    04/08/2022
+
+O QUE É UM SISTEMA OPERACIONAL?
+    Um sistema operacional (SO) é uma coleção de programas que inicializam o hardware do computador.
+
+    Um conjunto de programas que controla os recursos do computador e provê a base sobre a qual as 
+    aplicações são escritas.
+
+    Ainda segundo Tanembaum, sem software um computadpr é basicamente um inútil amontoado de metal. 
+    Com software, um computador pode armazenar, processar e recuperar dados, gerando assim informações.
+
+O QUE FAZ?
+    - Fornece rotinas básicas
+    - Mantém integridade (ACID)
+        [Atomicidade - Confiabilidade - Integridade - Durabilidade]
+    - Controla gerênciamento de arquivos
+
