@@ -17,3 +17,14 @@ O QUE FAZ?
         [Atomicidade - Confiabilidade - Integridade - Durabilidade]
     - Controla gerênciamento de arquivos
 
+MySQL - Sistema de Servidor de Banco de Dados
+MySQL é uma das melhores opções para srvidores de bancos de dados, além de ser amplamente difundido 
+no mercado. Possui uma facilidade para integração com várias aplicações, e por ser muito utilizado também existe muito conhecimento sobre ele.
+Vale ressaltar que MySQL e SQL Server são sistemas diferentes,  MySql está em posse da Oracle Corporation e é gratuito, já o SQL Server é da Microsoft, 
+e seu nome na verdade é Microsoft SQL Server.
+
+Linux - Sistema Operacional Desktop
+Linux é uma plataforma Livre, sem produtor oficial. É open source, ou seja, possui o código aberto, portanto é altamente personalizavel.
+Por ser uma plataforma de facil personalização, é amplamente utilizado por programadores e utilizado como base para outros sistemas operacionais.
+Os sistemas desenvolvidos em linux também são muito seguros, em grande parte por não ser muito difundido entre usuários casuais, mas principalmete
+por ter poucas brechas para acessar o sistema por fora.
