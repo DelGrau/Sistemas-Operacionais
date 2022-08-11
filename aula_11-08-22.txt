@@ -1,0 +1,24 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    11/08/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+TIPOS DE SISTEMAS OPERACIONAIS
+    - Bath (Lote);
+    - Rede;
+    - Distribuido;
+    - Multi-Usuário;
+    - Desktop;
+    - Servidor;
+    - Embutido;
+    - Tempo Real.
+
+    Os sistemas Operacionais mais antigos eram executados por lotes, ou seja, todos os programas executados eram colocados em fila.
+
+S.O
+    - Processos > CPU
+    - Gerência de Memoria > Ram, Swap, Page Files
+    - Aplicativos 
+
+    

@@ -2,6 +2,9 @@ SISTEMAS OPERACIONAIS
 
 Profº Altair    04/08/2022
 
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+
 O QUE É UM SISTEMA OPERACIONAL?
     Um sistema operacional (SO) é uma coleção de programas que inicializam o hardware do computador.
 
