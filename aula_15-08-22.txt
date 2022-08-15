@@ -40,3 +40,4 @@ Linux
     rm <nome> - Apaga um arquivo
     clear - Limpa a tela
     ls - Lista as coisas dentro da tela
+    
