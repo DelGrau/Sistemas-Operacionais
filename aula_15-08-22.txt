@@ -1,0 +1,17 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    15/08/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+S.O
+    * BOOT
+    * PARTIÇÃO
+    * INSTALAÇÃO
+    * "OLÁ MUNDO"
+
+    1 - MS-DOS G.2
+    2 - WIN 95
+    3 - LINUX > DEBIAN
+
+    
