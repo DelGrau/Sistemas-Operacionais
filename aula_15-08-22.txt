@@ -14,4 +14,29 @@ S.O
     2 - WIN 95
     3 - LINUX > DEBIAN
 
-    
+    1) Floppy < MS-DOS
+    2) Disco
+    3) CD-Rom
+
+Microsoft
+    md <nome> (Abreviação para 'mkdir') - Cria uma pasta
+    cd <nome> - Vai para uma pasta
+    type <nome> - Lista o que tem dentro do arquivo
+    del <nome>
+    rmdir <nome>
+    cls - Limpar tela
+    dir - Lista as coisas dentro da pasta
+
+    Criar um olá mundo
+        cd <pasta>
+        qbasic olamundo.bas - cria um arquivo em QBASIC, linguagem própria do MS-DOS
+        print "Ola Mundo"
+        SHIFT+F5
+
+Linux
+    mkdir <nome> - Cria uma pasta
+    cd <nome> - Vai para uma pasta
+    cat <nome> - 
+    rm <nome> - Apaga um arquivo
+    clear - Limpa a tela
+    ls - Lista as coisas dentro da tela
