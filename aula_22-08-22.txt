@@ -1,0 +1,28 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    22/08/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+FASES DA INICIALIZAÇÃO
+
+    HARDWARE
+    CHECAGEM INICIAL > POST
+        BIOS 
+            BOOT   
+                M.B.R. > LEGACY > MASTER BOOT RECORD 
+                U.E.F.I. > UNIFIED EXTENSIBLE FIRMWARE INTERFACE
+    S.O
+        GER. PROCESSAMENTO
+            CPU
+            PROCESSOS
+        GER. MEMORIA
+            RAM
+            ROM
+            SWAP/PAGE FILES
+        GER. DISCO
+            MECANICO 
+            SSD
+            [...]
+        NETWORK
+
