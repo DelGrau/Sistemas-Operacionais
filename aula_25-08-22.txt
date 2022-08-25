@@ -1,0 +1,48 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    25/08/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+COISAS IMPORTANTES QUE O PROCESSADOR DEVE FAZER
+    Gerenciamento de Processos
+    Gerenciamento de Memória
+    Gerenciamento de Armazenamento
+
+REVISÃO
+    1 - Introdução aos SO
+    2 - Estudo de Processos
+    3 - Gerencia de Processis/Threads
+    4 - Mecanismos de comunicação entre ProcessosGerencia de Memória
+    5 - Gerência de Arquivos
+    6 - Gerência de Armazenamento
+    7 - Gerência de Dispositivos
+
+    O que é SO?
+        "Na informática nada se cria, se rouba"
+
+        Vamos olhar em volta. Você já parou para pensar como um avião "VOA"?
+        Alguem olhou pra um passaro e pensou: "Se ele voa nós também podemos"
+
+BUFFERRIZAÇÃO
+    É o método de sobrepor E/S de um JOB com sua própria computação.
+    Exemplo: quando vocÊ manda gravar uma informação ele "finge" que gravou, acessa uma estrutura de daos de memória e depois realmente grava 
+    fisicamente. O mesmo ocorre quando você apaga um arquivo.
+
+SPOOLING
+    A partir da criação da buferização, nasceu o Spool, utiliza um disco como um buffer muito grande. Armazena em um espaço a informação grande
+
+    Spool é mauir que buffer
+
+MULTIPROGRAMAÇÃO
+    Aumenta a utilização de CPU, pois organiza os vários JOBS de forma que UCP sempre tenha algo para processar.
+
+        Descomplicando: Multiprogramação é simplesmente:
+            MULTI-TAREFA
+
+ESTADOS DE PROCESSOS    
+    - Novo
+    - Aguardando
+    - Executando
+    - Encerrando
+
