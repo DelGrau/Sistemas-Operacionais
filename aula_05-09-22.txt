@@ -1,0 +1,43 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    05/09/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+SISTEMAS OPERACIONAIS
+
+    S.O >> LINUX >> DEBIAN
+    DEBIAN >>   Debra + Ian
+    Logo >> Toy Story
+    Base para centesnas de Distros
+
+COMANDOS MAIS USADOS
+    
+    ls      >> Lista todos os arquivos no diretorio
+        ls -l       >> Lista os arquivos no diretório com detalhes
+    df      >> Mostra a quantidade de espaço usada no disco rigido
+    top     >> Mostra o uso da memória >> q (sai do top)
+    cd      >> Acessa uma determinada pasta (diretorio)
+    mkdir   >> Cria um diretório
+    rm      >> Remove um arquivo/diretório
+    cat     >> Abre um arquivo
+    vi      >> Abre o editor vi (lê-se VIAI) para editar/criar arquivos
+    df -h   >> Lista as partições e o espaço
+    clear   >> Limpa a tela
+        Ctrl + L    >> Limpa a tela
+    shutdown -h now >> Desliga
+
+PARTIÇÃO
+    Manual
+    1GB     /boot   >> brtfs
+    6GB     /       >> brtfs
+    Resto   swap       
+
+DIA 26/09/22 >> 19:10 // Prova
+    >> Histórico
+    >> MS-Dos
+    >> Win 95
+    >> Linux
+    >> Gerenciador de Processos
+    >> SoSim
+
