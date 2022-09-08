@@ -1,5 +1,43 @@
 SISTEMAS OPERACIONAIS
 
-Profº Altair    29/08/2022
+Profº Altair    08/09/2022
 
 Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+ALGUNS COMANDOS DO LINUX
+                        parte 2
+
+    ps -aux         >> Lista os processos iniciados
+    kill -9 *pid    >> Mata o processo especificado
+    man *comando    >> Lista todos os possiveis usos do comando, um Manual
+    
+MISSÃO - CRIAR ROTINA QUE:
+    - Liste arquivos na Raiz;
+    - Mostre Data/Hora;
+    - Mostre Memoria e Swap;
+    - Mostre Partições;
+
+    Lista de comandos
+        cd /                >> Vai pro diretório Raiz
+        mkdir script        >> Cria um diretório chamado script
+        cd script           >> Vai pro diretório script
+        nano auto.sh        >> Cria um arquivo chamado auto.sh com nano
+        chmod 777 auto.sh   >> Dá permissão para o arquivo ser lido, editado e executado
+        ./auto.sh           >> Executa o Arquivo
+
+    auto.sh
+        clear
+        ls -l /
+        date
+        free -m
+        df -h
+
+
+HIERARQUIAS DE PERMIÇÕES NO LINUX
+    - Quem Criou
+    - Grupo que pertence
+    - Usuário comum
+
+    Permissões
+        4 2 1 = 7
+        r w x = permissão total
