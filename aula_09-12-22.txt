@@ -1,0 +1,24 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    12/09/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+LINUX
+    Shell Script
+        Data e Hora
+        Tempo Ligado
+        Uso de memória
+        Espaço de Disco
+        Listar /
+
+    - Gravar Arquivo Log
+    
+    - Comandos no individual
+        date                -> imprime a data e a hora
+        uptime              -> tempo ligado
+        free -m             -> uso de memoria
+        df -h               -> mostra as partições
+        ls -l \             -> mostra as informações do /
+        comando >> destino  -> salva as informações do comando no arquivo destino, indexando no final
+        comando > destino   -> salva as informações do comando no arquivo destino, sobreescrevendo o arquivo original
