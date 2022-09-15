@@ -1,0 +1,18 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    15/09/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+SISTEMAS OPERACIONAIS
+
+# Dia na VM: 15/09/2022 20:13
+
+# Localização do crontab: /etc/crontab
+
+# Mudanças:
+    # EXECUTA /script/uro.sh 
+    0-59/2 *    * * *     root    /script/uro.sh 
+    #
+
+    
