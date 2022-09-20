@@ -1,0 +1,14 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    19/09/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+LINUX   
+    # Aula de Hoje  #
+        Partições
+        Novo Disco
+
+    # Comandos      #
+        fdisk -l    ->  Mostra os discos conectados com detalhes
+
