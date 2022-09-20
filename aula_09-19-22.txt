@@ -11,4 +11,29 @@ LINUX
 
     # Comandos      #
         fdisk -l    ->  Mostra os discos conectados com detalhes
+        mkfs.ext3 /dev/sdb1 -> Formata a partição especificada
+        mount       ->  Monta um disco na máquina
+        blkid       ->  Faz a localização dos dispositivos e atributos
 
+    # /mnt          #
+        Local onde ficam os discos externos
+        Local onde montamos discos novos
+
+        validar
+            mount /<disco> <destino>
+            mount /dev/sdb1 /mnt
+
+        concatenar no fstab
+            blkid /dev/sdb1 >> fstab
+
+        modificar fstab
+            nano /etc/fstab
+                deixar a partir de "UUID", apagar depois dele.
+                /dados -> a pasta que queremos na partição
+                ext3 -> formato da partição
+                defaults -> o modelo da partição
+                0 2 -> comandos durante a inicialização
+
+            final
+                # /dados, disco /dev/sdb1, 10GB
+                UUID:"[...]" /dados ext3    defaults    0   2
