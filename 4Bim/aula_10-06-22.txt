@@ -1,0 +1,64 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    15/09/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+4° BIMESTRE
+
+    # S.O p/ Servidores
+    # Cloud
+    # Conectividade
+    # Segurança
+
+    "Z:\SO\WINDOWS-SERVER-2019"
+
+    # BANDWITH
+
+        - Largura de Banda
+            1 GB        1 GB
+            ----        ----
+            SERVER      1 PC
+
+            1GB / 48 PCs 
+
+    # SERVIDOR
+
+        -> Servidor Público: Serve p/ Resolver alguma NECESSIDADE
+
+        -> Servidor: Servir Serviços para o Usuário
+
+        B.I -> Business Intelligence
+
+            T.O.T.V.S -> ERP
+
+        # WINDOWS
+            + WINDOWS 10 PRO 
+            + WINDOWS SERVER 
+
+            # WINDOWS 10 PRO
+                2 TB Ram
+                2 Sockets (Processadores)
+                20 conexões Simultâneas
+
+            # WINDOWS SERVER 
+                24 TB Ram
+                64 Sockets
+                Ilimitadas conexões
+                -> DHCP
+                -> AD
+                -> DNS
+                -> Server Files
+
+            # DHCP: DINAMIC HOST CONTROL PROTOCOL
+
+                A.P : ACCESS POINT -> TP LINK
+                ROTEADOR : PROTOCOLO DE ROTAS -> BGP, RIP, OSPF;
+
+            # AD: ACTIVE DIRECTORY
+
+            # DNS: DOMAIN NAME SIMPLE/SERVICE 
+
+            # SERVER FILES: SERVIDOR DE ARQUIVOS
+
+
