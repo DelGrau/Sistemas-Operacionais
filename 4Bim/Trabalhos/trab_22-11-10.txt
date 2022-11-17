@@ -1,0 +1,46 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    10/11/2022
+
+Aluno:  Alan Henrique Ribeiro
+RA:     00233006
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+4° BIMESTRE
+
+1 - O QUE É UMA CLOUD?
+    Basicamente, Cloud Computing, simplesmente Cloud ou Computação na Núvem, é uma forma de acesso remoto a Softwares, Servidores de Dados e de Processamento.
+
+2 - ANALISE 3 FORNECEDORES DE CLOUD E IDENTIFIQUE SUAS PARTICULARIDADES.
+    Amazon Web Service - AWS
+        A AWS tem vários planos para diferentes usos, todos com uma modalidade gratuita e planos pagos. É vastamente utilizada mundo afora e conta com suporte a todo tempo.
+
+    Google Cloud
+        É um produto da gigante Google, que investe pesado todos os anos em desenvolvimento e tem uma ampla cobertura, por ser dos mesmos desenvolvedores do Androis, a Google Cloud possui conexão com a grande parte dos dispositivos mobile.
+
+    Oracle Cloud
+        Como o proprio nome ja diz, a Oracle Cloud é desenvolvida pela Oracle, que distribui serviços de Virtualização de hardware, Banco de Dados e afins. Tem grande enfase na Segurança, Gerenciamento e Gestão de recursos.
+
+3 - COM O GUIA CLOUDSTACK EXPLIQUE: 
+    a) O que é uma REGIÃO (REGION);
+
+    b) ZONAS (CLOUD);
+
+    c) PODS;
+
+    d) CLUSTER;
+
+    e) HOST;
+
+    f) STORAGE;
+
+    g) REDES FÍSICAS;
+
+    h) HA (Alta Disponibilidade) PARA GERENCIA DE SERVIDORES;
+
+4 - REVISE OS PROVEDORES DE CLOUD QUE VOCÊ PESQUISOU E ESCOLHA O MELHOR.
+
+5 - DEMONSTRE O MOTIVO DE SUA ESCOLHA.
+
+6 - SE VOCÊ FOR CRIAR UM AMBIENTE CLOUD, O QUE SERÁ PRECISO?

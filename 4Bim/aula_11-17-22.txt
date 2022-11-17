@@ -1,0 +1,39 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    17/11/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+4° BIMESTRE
+=======================================================================================================================
+
+CLOUD E TECNOLOGIAS EMERGENTES
+
+    SITUAÇÃO ATUAL -> 2022
+
+        Sistemas em Abiente Local
+            - Desktop usuário Final;
+            - Servidores Empresariais Locais;
+
+        Sistemas em Ambiente Descentraizado
+            - Desktop em Nuvem (VDI);
+            - Servidores em Cloud;
+
+    SIATEMAS FUTURISTAS
+
+        Sistemas Operacionais Inteligentes
+
+        Hiperautomação
+
+        Realidade Aumenteada
+
+        #   Existe uma tendência é que os sistemas operacionais fiquem cada vez mais inteligentes para auxiliar o usuário
+            no dia-a-dia, além de usar cloud computing para tornar as pessoas independentes do hardware do computador.
+
+    INDAGAÇÕES
+
+        Como seriam estes sistema inteligentes?
+
+        Havendo coerencia na afirmação;
+
+=======================================================================================================================

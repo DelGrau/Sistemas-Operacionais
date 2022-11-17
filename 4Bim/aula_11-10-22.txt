@@ -1,0 +1,20 @@
+SISTEMAS OPERACIONAIS
+
+Profº Altair    10/11/2022
+
+Confira também: https://github.com/DelGrau/Sistemas-Operacionais
+
+4° BIMESTRE
+
+CLOUD -> S.O.
+
+    Os 4 mais importantes
+        - 1) Usuário;
+        - 2) Servidores/Empresariais;
+        - 3) Redes;
+        - 4) Mobile;
+
+    Ambiente CLoud
+        - Rede;
+        - Servidores;
+        
